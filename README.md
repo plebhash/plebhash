@@ -10,6 +10,8 @@
   - <a href="https://nixos.org" target="_blank">nix</a><br>
   - <a href="https://paritytech.github.io/mixnet-spec/" target="_blank">mixnets</a><br>
   - <a href="https://rust-lang.org" target="_blank">rust</a><br>
-  <hr>
+<hr>
+<b>PGP</b>: 37DA 6F2F 5996 6316
+<hr>
 
 ⛏️ plebs be hashin ⚡
