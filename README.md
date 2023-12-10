@@ -1,16 +1,15 @@
-### Hi there 👋
+  <b> $ whoami # </b>
+  <br><br>
+  I am <a href="http://bitcoin.org/bitcoin.pdf" target="_blank">Satoshi Nakamoto</a>. I cannot really prove it, but that's not the point. You should be Satoshi Nakamoto too.
+  <br><br>
+  Well, <b>plebhash</b> is actually a nym. I am a Computer Engineer in my mid-30s. Although Academia is a rotting corpse, I wasted some of my time there so I hold a BSc in Electronics Engineering from <a href="https://www5.usp.br" target="_blank">USP</a> and a MSc in Computer Engineering from <a href="https://ufg.br" target="_blank">UFG</a>. I started my "professional" journey in the Automotive industry, so I have some grasp over Embedded Linux, Systems Programming and Real Time Communication. From 2019 to 2023, I dedicated my time to the so-called "web3" universe, working for the <a href="https://iota.org" target="_blank">IOTA Foundation</a> and later for <a href="https://parity.io" target="_blank">Parity Technologies</a>.
+  <br><br>
+  Nowadays, my interests are focused on: <br>
+  - <a href="http://bitcoin.org" target="_blank">bitcoin</a><br>
+  - <a href="http://stratumprotocol.org" target="_blank">bitcoin mining</a><br>
+  - <a href="https://nixos.org" target="_blank">nix</a><br>
+  - <a href="https://paritytech.github.io/mixnet-spec/" target="_blank">mixnets</a><br>
+  - <a href="https://rust-lang.org" target="_blank">rust</a><br>
+  <hr>
 
-<!--
-**plebhash/plebhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⛏️ plebs be hashin ⚡
