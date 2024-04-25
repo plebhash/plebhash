@@ -4,12 +4,10 @@
   <br><br>
   Well, <b>plebhash</b> is actually a nym. I am a Computer Engineer in my mid-30s. Although Academia is a rotting corpse, I wasted some of my time there so I hold a BSc in Electronics Engineering from <a href="https://www5.usp.br" target="_blank">USP</a> and a MSc in Computer Engineering from <a href="https://ufg.br" target="_blank">UFG</a>. I started my "professional" journey in the Automotive industry, so I have some grasp over Embedded Linux, Systems Programming and Real Time Communication. From 2019 to 2023, I dedicated my time to the so-called "web3" universe, working for the <a href="https://iota.org" target="_blank">IOTA Foundation</a> and later for <a href="https://parity.io" target="_blank">Parity Technologies</a>.
   <br><br>
-  Nowadays, my interests are focused on: <br>
-  - <a href="http://bitcoin.org" target="_blank">bitcoin</a><br>
-  - <a href="http://stratumprotocol.org" target="_blank">stratum</a><br>
-  - <a href="https://nixos.org" target="_blank">nix</a><br>
-  - <a href="https://paritytech.github.io/mixnet-spec/" target="_blank">mixnets</a><br>
-  - <a href="https://rust-lang.org" target="_blank">rust</a><br>
+  Nowadays, I'm a grantee with <a href="https://spiral.xyz">Spiral</a> working on <a href="">StratumV2 Reference Implementation</a>, which is a protocol for Bitcoin Mining.
+
+  I'm also interested in innovative architectures for Bitcoin Mining Pools, so I'm a casual contributor to <a href="https://github.com/braidpool/braidpool">braidpool</a> and <a href="https://github.com/plebemineira/plebpool">plebpool</a>.
+
 <hr>
 <b>PGP</b>: 37DA 6F2F 5996 6316
 <hr>
