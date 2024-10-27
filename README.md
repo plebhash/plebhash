@@ -6,8 +6,6 @@
   <br><br>
   Nowadays, I'm a grantee with <a href="https://spiral.xyz">Spiral</a> working on <a href="https://github.com/stratum-mining/stratum">StratumV2 Reference Implementation</a>, which is a protocol for Bitcoin Mining.
 
-  I'm also interested in innovative architectures for Bitcoin Mining Pools, so I'm a casual contributor to <a href="https://github.com/braidpool/braidpool">braidpool</a> and <a href="https://github.com/plebemineira/plebpool">plebpool</a>.
-
 <hr>
 <b>PGP</b>: 37DA 6F2F 5996 6316
 <br>
